@@ -13,10 +13,8 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 Customers are vulnerable to transaction fraud everyday. On this basis, the bank is in a dire need for a fraud detection  model to help predict transaction crime. A constant reoccurrence of fraudulent incident will diminish the bank customer’s trust and affect the productivity of the bank. Hence, detecting and preventing fraud is important to the Bank.
 
 
- I took the following steps in this project
 _______________________________________________________________________________________________________________________________________
-
-I performed exploratory data analysis using python to:
+I cleaned, checked out for missing values and performed exploratory data analysis using python to:
 a) Visualize relationships between the label and some key features
 b) Explore correlations
 c) Conduct univariate and multivariate analysis.

@@ -1,4 +1,18 @@
 # My-Capstone-Project
+Blossom Bank also known as BB PLC is a multinational financial services group, that offers retail and investment banking, pension management, asset management and payments services, headquartered in London, UK. 
+
+#Problem Statement
+Customers are vulnerable to transaction fraud everyday. On this basis, the bank is in a dire need for a fraud detection  model to help predict transaction crime. A constant reoccurrence of fraudulent incident will diminish the bank customer’s trust and affect the productivity of the bank. Hence, detecting and preventing fraud is important to the Bank.
+
+
+
+
+
+
+
+
+
+
 Data Dictionary
 The below column reference:
 
@@ -38,23 +52,5 @@ recipient after the transaction
 
 ***************************************************************************************************************************
 
-1. Problem definition:
-2. clearly articulate the problem that is to be solved with your data 
-mining. How will the business benefit from your solution?
 
 
-3. Perform exploratory data analysis in python.
-a) Visualize relationships between the label and some key features
-b) Explore correlations
-c) Conduct univariate and multivariate analysis as much as is feasible
-4. Perform feature engineering
-a) Encoding categorical variables
-b) Create new features from existing features where necessary, depending on 
-insights from your EDA
-5. Model selection, training, and validation
-a) Train and test at least 2 supervised learning model
-6. Model evaluation
-a) Analyse the results of your trained model
-b) What metrics are most important for the problem? For instance, should the 
-business be more concerned with better results on false negatives or true 
-positives?
